@@ -14,7 +14,7 @@ Necrosis detection in human meningioma is clinically significant but computation
 
 **DeepNucleiNet** is a nuclei-guided dual-stream framework that combines H&E tile features with binarized nuclei-map features to directly encode the histological criterion of nuclear depletion, without requiring additional nuclear annotations.
 
-![Architecture](assets/architecture.pdf)
+![Architecture](![Architecture](https://github.com/raajuuu1998/DeepNucleiNet/raw/main/assets/architecture.pdf))
 
 ---
 
