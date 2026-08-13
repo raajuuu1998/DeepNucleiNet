@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+*.npy
+*.npz
+data/
+checkpoints/
+*.png
+*.jpg
+*.tif
+*.svs
+.env
+.DS_Store
